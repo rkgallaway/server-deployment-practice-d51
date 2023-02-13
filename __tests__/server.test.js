@@ -8,6 +8,6 @@ describe('API Server', () => {
 
     expect(response.status).toBe(200);
     expect(response.text).toBeTruthy();
-    expect(response.text).toEqual('this is a lg!');
+    expect(response.text).toEqual('this is a log!');
   });
 });
