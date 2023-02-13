@@ -10,8 +10,9 @@ Basic API Server where we write some middleware and practice deployment
 
 ### Links and Resources
 
-- [ci/cd](http://xyz.com) (GitHub Actions)
-- [back-end server url](http://xyz.com) (when applicable)
+- [GitHub Actions ci/cd](http://xyz.com) 
+- Dev [back-end server url](https://d51-practice.onrender.com) 
+- Prod [back-end server url](enterYourUrl.xyz) 
 
 ### Setup
 
